@@ -32,7 +32,7 @@ I like coding and figuring out how things work!
 
 **Discord**: @u_know_69
 
-##Socials
+## Socials
 
 **YouTube**: (@UKnow69UD)[https://www.youtube.com/@UKnow69UD] **TikTok**: (@u_know_69)[https://www.tiktok.com/@u_know_69]
 
