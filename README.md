@@ -34,6 +34,6 @@ I like coding and figuring out how things work!
 
 ## Socials
 
-**YouTube**: (@UKnow69UD)[https://www.youtube.com/@UKnow69UD] **TikTok**: (@u_know_69)[https://www.tiktok.com/@u_know_69]
+**YouTube**: [@UKnow69UD](https://www.youtube.com/@UKnow69UD) **TikTok**: [@u_know_69](https://www.tiktok.com/@u_know_69)
 
 My Always Learning New Things.
