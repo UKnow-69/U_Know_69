@@ -1,4 +1,39 @@
-- 👋 Hi, I’m @U_Know_69
-- 👀 I’m interested in gameing and cheating
-- 🌱 I’m currently learning more and more about cheats/coding cheats
-- 📫 How to reach me Discord(https://discord.gg/z4nSf8m77C) your you can dm on dc (u.know.69)<3
+# 👋 Hey, I'm U_Know_69
+
+## About Me
+
+I like coding and figuring out how things work!
+
+## What I Do
+
+* **Languages:** C++, C, Python (and picking up others as needed)
+* Work with low-level reverse engineering
+* Build and experiment with game cheats
+
+## Hardware & Interests
+
+* Flipper Zero
+* HackRF + PortaPack H4M
+* RF and signal stuff
+* Security and system behavior
+
+## Projects
+
+* Small custom tools
+* RF experiments
+* Personal builds (software + hardware)
+
+## Goals
+
+* Learn more reverse engineering
+* Build more advanced projects
+
+## Contact
+
+**Discord**: @u_know_69
+
+##Socials
+
+**YouTube**: (@UKnow69UD)[https://www.youtube.com/@UKnow69UD] **TikTok**: (@u_know_69)[https://www.tiktok.com/@u_know_69]
+
+My Always Learning New Things.
